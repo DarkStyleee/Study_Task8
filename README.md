@@ -1,2 +1,3 @@
-### Launch docker-compose
-```docker compose up -d```
+### Start docker with docker-compose
+
+`docker compose up -d`
